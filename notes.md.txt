@@ -1,0 +1,5 @@
+## Giải thích các thuật ngữ trong Git/GitHub
+- *Commit:* Là thao tác lưu lại trạng thái/thay đổi của các file vào lịch sử Git ở máy cục bộ (local repository) kèm theo thông điệp mô tả.
+- *Branch:* Là nhánh làm việc độc lập tách ra từ luồng mã nguồn chính (main), giúp phát triển/chỉnh sửa tính năng mới mà không ảnh hưởng đến dự án chính.
+- *Push:* Là thao tác tải/đẩy các commit từ máy tính cục bộ lên thư mục lưu trữ trên máy chủ từ xa (GitHub).
+- *Pull:* Là thao tác tải/cập nhật các thay đổi mới nhất từ thư mục lưu trữ trên GitHub về máy tính cục bộ[cite: 1].
