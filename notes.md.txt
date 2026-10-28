@@ -1,0 +1,4 @@
+# Ghi chú dự án
+ 
+## Kết quả
+Đã thực hiện xong các bước khởi tạo và phân nhánh dự án thành công.
